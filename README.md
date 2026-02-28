@@ -562,13 +562,7 @@ https://github.com/[your-username]/predictive-analysis-project
 
 ---
 
-## 👤 Author & Contact
 
-For questions, suggestions, or collaborations:
-- Open an issue in this repository
-- Contact: [Your contact information]
-
----
 
 ## 🙏 Acknowledgments
 
